@@ -1,3 +1,4 @@
+/*This is awesome*/
 #include "mainwindow.h"
 #include <QApplication>
 
